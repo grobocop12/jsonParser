@@ -1,0 +1,16 @@
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/target
+project/plugins/project/
+.history
+.cache
+.lib/
+.idea
+# bloop and metals
+.bloop
+.bsp
+.metals
+project/metals.sbt
